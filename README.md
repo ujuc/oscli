@@ -1,0 +1,2 @@
+# oscli
+OpenStack CLI Client
